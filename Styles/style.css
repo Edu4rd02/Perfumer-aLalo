@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #0eaeab;
+    padding: 13px;
+    display: flex;
+}
+footer{
+    background-color: #0eaeab;
+    margin-top: 1rem;
+    text-align: center;
+    padding: 12px;  
+}
+a:hover{
+    font-size: 20px;
+    background-color: red;
+    font-weight: 500;
+}
+
